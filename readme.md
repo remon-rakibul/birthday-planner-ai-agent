@@ -94,4 +94,4 @@ If you prefer to run the application without Docker, you can do so by following 
 
 You can view the live application at the following URL:
 
-Live URL: 
+Live URL: https://birthday-planner-ai-agent-rakib.streamlit.app/
